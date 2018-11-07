@@ -1,0 +1,14 @@
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/bin/Debug/netcoreapp2.1/webapptesy.deps.json
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/bin/Debug/netcoreapp2.1/webapptesy.runtimeconfig.json
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/bin/Debug/netcoreapp2.1/webapptesy.runtimeconfig.dev.json
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/bin/Debug/netcoreapp2.1/webapptesy.dll
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/bin/Debug/netcoreapp2.1/webapptesy.pdb
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.csproj.CoreCompileInputs.cache
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.RazorAssemblyInfo.cache
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.RazorAssemblyInfo.cs
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.AssemblyInfoInputs.cache
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.AssemblyInfo.cs
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.RazorTargetAssemblyInfo.cache
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.dll
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.pdb
+/Users/kristijanklepac/Desktop/core_2_1/webapptesy/obj/Debug/netcoreapp2.1/webapptesy.csprojAssemblyReference.cache

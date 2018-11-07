@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{476A1F10-32B5-4166-8D74-757E6679B220}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+    <Files>
+      <File FileName="Controllers/BoatImagesController.cs" Line="96" Column="1" />
+      <File FileName="Controllers/BoatsController.cs" Line="56" Column="13" />
+      <File FileName="Controllers/TokenController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/TestController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/OwnersController.cs" Line="1" Column="1" />
+      <File FileName="AccountViewModels/OwnerViewModel.cs" Line="1" Column="1" />
+      <File FileName="Models/BoatImage.cs" Line="17" Column="8" />
+      <File FileName="Controllers/ValuesController.cs" Line="31" Column="13" />
+      <File FileName="AccountViewModels/BoatsViewModel.cs" Line="1" Column="1" />
+      <File FileName="AccountViewModels/BoatImagePositionModel.cs" Line="19" Column="6" />
+      <File FileName="Controllers/ExternalTokenController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="3" Column="86" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="Helpers/FriendlyUrlHelper.cs" Line="5" Column="49" />
+      <File FileName="AccountViewModels/BoatCalendarDateRangeViewModel.cs" Line="1" Column="1" />
+      <File FileName="AccountViewModels/BoatCalendarViewModel.cs" Line="1" Column="1" />
+      <File FileName="AccountViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="AccountViewModels/RegisterViewModel.cs" Line="1" Column="1" />
+      <File FileName="Controllers/BoatCalendarsController.cs" Line="1" Column="1" />
+      <File FileName="Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Models/ProformaInvoice.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.webapptesy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
